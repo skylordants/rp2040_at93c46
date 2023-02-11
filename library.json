@@ -1,6 +1,6 @@
 {
 	"name": "rp2040_at93c46",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A library to use AT93C46 eeprom with a rp2040 using the original SDK",
 	"repository":
 	{
