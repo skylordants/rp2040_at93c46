@@ -2,7 +2,7 @@
 #define __AT93C46_H__
 
 #include "pico/stdlib.h"
-#include "SPI.h"
+#include "hardware/spi.h"
 
 class AT93C46 {
 public:

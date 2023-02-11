@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 #include "at93c46.h"
-#include "hardware/spi.h"
 
 
 AT93C46::AT93C46(uint8_t pCS, uint8_t pSK, uint8_t pDI, uint8_t pDO, spi_inst_t *spi) 
