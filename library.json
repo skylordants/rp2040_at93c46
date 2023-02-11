@@ -15,6 +15,6 @@
 	  }
 	],
 	"license": "MIT",
-	"frameworks": "wizio-pico",
+	"frameworks": "*",
 	"platforms": "*"
   }
